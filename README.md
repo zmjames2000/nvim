@@ -51,7 +51,20 @@ scoop install neovim-nightly
 
 --------
 
-config file : [e.g. theniceboy](https://github.com/theniceboy/nvim) 
+### Config neovim
+nvim 'file' and then **:checkhealth**
+
+能找到你的config file的 目录
+
+之后增加相应的目录，及文件： autoload, plugged,init.vim
+
+### Linux （完美）
+config file : [e.g. theniceboy](https://github.com/theniceboy/nvim) 基于Linux的配置，可以参考。
+ 
+ ###  wndows
+ config file: [e.g. zmjames2000](https://github.com/zmjames2000/nvim)  基于Linux的修改，可以参考，及更改。
+ 
+ 该配置也是参考 **theniceboy**的Linux配置更改的。
 
 
 
